@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: 0dc735c89c318433bb062b82570a6c93
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_0
+    21300002: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_1
+    21300004: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_2
+    21300006: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_3
+    21300008: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_4
+    21300010: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_5
+    21300012: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_6
+    21300014: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_7
+    21300016: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_8
+    21300018: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_9
+    21300020: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_10
+    21300022: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_11
+    21300024: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_12
+    21300026: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_13
+    21300028: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_14
+    21300030: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_15
+    21300032: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_16
+    21300034: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_17
+    21300036: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_18
+    21300038: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_19
+    21300040: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_20
+    21300042: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_21
+    21300044: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_22
+    21300046: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_23
+    21300048: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_24
+    21300050: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_25
+    21300052: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_26
+    21300054: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_27
+    21300056: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_28
+    21300058: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_29
+    21300060: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_30
+    21300062: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_31
+    21300064: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_32
+    21300066: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_33
+    21300068: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_34
+    21300070: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_35
+    21300072: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_36
+    21300074: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_37
+    21300076: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_38
+    21300078: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_39
+    21300080: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_40
+    21300082: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_41
+    21300084: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_42
+    21300086: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_43
+    21300088: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_44
+    21300090: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_45
+    21300092: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_46
+    21300094: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_47
+    21300096: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_48
+    21300098: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_49
+    21300100: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_50
+    21300102: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_51
+    21300104: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_52
+    21300106: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_53
+    21300108: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_54
+    21300110: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_55
+    21300112: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_56
+    21300114: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_57
+    21300116: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_58
+    21300118: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_59
+    21300120: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_60
+    21300122: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_61
+    21300124: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_62
+    21300126: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_63
+    21300128: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_64
+    21300130: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_65
+    21300132: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_66
+    21300134: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_67
+    21300136: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_68
+    21300138: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_69
+    21300140: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_70
+    21300142: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_71
+    21300144: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_72
+    21300146: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_73
+    21300148: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_74
+    21300150: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_75
+    21300152: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_76
+    21300154: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_77
+    21300156: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_78
+    21300158: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_79
+    21300160: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_80
+    21300162: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_81
+    21300164: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_82
+    21300166: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_83
+    21300168: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_84
+    21300170: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_85
+    21300172: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_86
+    21300174: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_87
+    21300176: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_88
+    21300178: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_89
+    21300180: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_90
+    21300182: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_91
+    21300184: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_92
+    21300186: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_93
+    21300188: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_94
+    21300190: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_95
+    21300192: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_96
+    21300194: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_97
+    21300196: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_98
+    21300198: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_99
+    21300200: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_100
+    21300202: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_101
+    21300204: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_102
+    21300206: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_103
+    21300208: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_104
+    21300210: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_105
+    21300212: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_106
+    21300214: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_107
+    21300216: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_108
+    21300218: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_109
+    21300220: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_110
+    21300222: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_111
+    21300224: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_112
+    21300226: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_113
+    21300228: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_114
+    21300230: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_115
+    21300232: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_116
+    21300234: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_117
+    21300236: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_118
+    21300238: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_119
+    21300240: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_120
+    21300242: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_121
+    21300244: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_122
+    21300246: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_123
+    21300248: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_124
+    21300250: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_125
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 946
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1334cd017f8f4b889af9b93a397f2e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 943
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5d471a26444a8d8743d7bda81a49c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 946
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646652b6956a74e4e93dfdcbb5c979e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 945
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ed08879b2f43bc8634deb0ddaf358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_4
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 945
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934df1a7f83124011b5c86d35202b6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 713
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8cded7dec04235b7ac371e465357c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 713
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7a4119d3d04810b4b3b20d68bb9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 714
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620dd4f1507c45859b69c6c546e0c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_8
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 641
+        width: 294
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e54ebac2e6405a9b57ddddc63c1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_9
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 646
+        width: 244
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a8c1dd09824479be630c5f62ea871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 483
+        width: 175
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e29ef9d51a40578c3050d4d1ac68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 482
+        width: 189
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3707ac4e75845849823077c1e69bf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 482
+        width: 191
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32445e66712fc4cf8b86283b428686cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 483
+        width: 207
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b5d0fb4233b454ba23a9c308f9138b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 438
+        width: 309
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935fe0b9fa59e49f78d885c0c6b16a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 227
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60f2086ce9a43a4aba46e606472c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 251
+        width: 247
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a225cdc90acb46af9b37e478bfde0e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_17
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 253
+        width: 252
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91de0cd0524f40e9949664635b1fd26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 216
+        width: 308
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f3bfbfd9ae4ec98367cd2c6d1aae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_19
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 257
+        width: 280
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3013dc6e0bd4346b12e6ba70dfd692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 278
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b01e08137324286ac6c45c7ec2c6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 180
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692626a2154614324a3e06211ceae6ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_22
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 186
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921d097bb44146a2b811c129c751878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_23
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 192
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72fbcbb36d442939e4fac21d76c023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_24
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d74b3aa53346dd8592a5b68012b0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_25
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc351d14806d647ad996d57ce3345a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 88
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451a4244721d4d328a3d64c64942da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 146
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2cf37eab38247369036fde9c225d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_28
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 176
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f05e247838541b193be74ba16127ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_29
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 171
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4d3cf0560b4063b6e63c031ea924a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_30
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 177
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7189995b7944a189f56bfc6f9c9f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_31
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 177
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a491190d6c40398b120d30e2d9ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_32
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 186
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4dc31f327a4b8a9a5d91d6c5afe50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 136
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698847f97e8364dcc9ecd94cbbab68af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 154
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7bcb770d8b433d89e24dafccb7b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 94
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31d58f1747c42fbac010b121a09331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 155
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845819db5a844c5dbbc0ffe80813fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_37
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 155
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d9de686c1d40afbba22469a9c90b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_38
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 168
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14b57b764984a6a990f5db8ba2fd25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_39
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 168
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90c89a5604e4294b2f7a2a303ca4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_40
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d40d07a5094b15a3d195634950985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_41
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 166
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35dca7d36f5466782f61806ab30c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_42
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 162
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c57ab77ea70429bb146ba4f348b17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_43
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 162
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4a5d448f7e4793aefdd34e85dab0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_44
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 172
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2833b2e63ef40a5b9dda3aa19360c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_45
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 172
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e18c36785594172851022d17a9f3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 141
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01d71a26f774421bd5989df1f5a174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_47
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 145
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4824c72cc86194ba28c674734087274e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_48
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 152
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57116559868454f8dbcc1ccf68b45d20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_49
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc930a4e565c42ffa656733456c93e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_50
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 146
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43e48741858415b99466ad57e65848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_51
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab7a0822fcf46afa115ffc0d913b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_52
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 152
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb939f5783f438c8149f49aaea6f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_53
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 122
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda7e3ab912a49acb4f5c9ca64e410d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 121
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b17075c03a4cc28d9c0344ff6e9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_55
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 128
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b18a49ed454beca4e35671c2c9535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_56
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 133
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565e6d328a8641e784746e645c5fb2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_57
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 139
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f02f0f72fa04c44b0c071706d35ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_58
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384ef176f2a247d0ae5ad9cd846daff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_59
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 141
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebefa7977b624b6eb6c603f654ea1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_60
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 146
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02514d1f261da4ddd814a805a412cbeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_61
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28eea601973460ba20a0f8afede068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_62
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 148
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eefcd9b89e01480eb040729f4449c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 68
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab7e08611e1a4c14988e24b27fad9f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_64
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 127
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f333b9f1455545b094ed67496a664e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_65
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 118
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aecaefc6d02c47658d50d91a38e828a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_66
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 124
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f24d8176b347d9b08e37e482e3365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_67
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 111
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ceec7b111b4e0388cb632eb065062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_68
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 132
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40c22cf8628433486d1411391c5747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_69
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 125
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535b5172653e4bc29ddaea3dd33685a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_70
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 117
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e3aea42f7e4ae5be3951bf164830d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_71
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 125
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9facde1cfd64914a310cba1010c78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_72
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 133
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3578ae7a897b40d3891948ccc6132d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_73
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 99
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebe21014fe74209b488dd44f934f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_74
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d983273e0c240a5a65997c35a5b4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_75
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 107
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d268b862b95544d0929dfc9d2d6d54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_76
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 112
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30605bd8308f46c985c020f3654a602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_77
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 121
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fb5f391d954ef0b23f8c3b4c3be06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_78
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 118
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd536ef85d6864f69bc07f3ddb119bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_79
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 99
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298c900f1af0497fa1a4722d9193a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_80
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 90
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326fe5526db642c1ac668f6249090b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_81
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a1b197e1f3a4847a98629b83ce84e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_82
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb00232594a4c5ab70776d25cf6f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_83
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 102
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec22e6e79aee40a5a4bbb27dba6e476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_84
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 106
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e344787614f64d46a1ca6318d7be4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_85
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 98
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30845bcb2bb547cf90e66b60ee235c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_86
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 84
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e477a63a8943d3a78a091e07500ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 83
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4db0c4173bf41319cc724684dd1b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 85
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97220e2d7f7e34f15b22bd2eaeda6346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_89
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 90
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98743ae5047144f8b5cb0a348c4bef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_90
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 85
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d38ea970b94afcab91db0b51ef398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_91
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 68
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11097b95e39124d7aa34a8deedae5d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_92
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 90
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25799271e9524474968f4eeb4311023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_93
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 87
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b52e4d4fabb4644b4051b439cb0a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_94
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 94
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04d87c23f2348f5bf62f99ff98ccf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_95
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 92
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01cf5033ad94ac6bf7a92305efe216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_96
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 87
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28eb07366541411494e94f02bdc4bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_97
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 90
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65de4a0a5c3146e6a31f48f5b2e272a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_98
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 88
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a313201a53ce439aafd9405617e2a17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_99
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 93
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586f59edf01543cd9db793b7ff2ffcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_100
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 88
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779731ee2b2140a7989f114f218d2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_101
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da44a3f0b5164a0c86628fadb9aa5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_102
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 69
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e2c9f947684fae8b2e0db32c5498a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_103
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 64
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed13bc606e4a42da8c308e0dc37bfd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 33
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c2e2f968f264239a70a2dd7f270957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_105
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 40
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa066b432be4703b40bf71869a16d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_106
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f29cd8df564312a57f5647dfdb8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_107
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43659990815ef45bb99e01aa53be3f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_108
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 41
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cf1af377554e418c90395f1fd7154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_109
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351cd467b87544a1787e56b9e2436a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_110
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 33
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8ec3ab082a43cd8e53c70382b40ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_111
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 28
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ecc4e58d3f94dafa6533a7ffcf4ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_112
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 26
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89dfa578597b48f784396a386a8769c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_113
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ba26166bbd458fab5d03a50d1385e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_114
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 30
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af5ffad4cb84407adeefe7831a546f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_115
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 28
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8039d7b922394110b18f37e2078c79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_116
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 28
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30246a4e6b34fc19c21edd51616f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_117
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 31
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2543ed0b1bf443aa708138d7542b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_118
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 39
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a168ad9d098a4f69893b01634a3ec91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_119
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 34
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96484d8a2ea6f402ab50eb917216c80c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_120
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10022b9bc2045481695c6b46cae3ecc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_121
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85c67cb4d5b4835bc57eabae800497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_122
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b5e629750d4ef083b3d013721427b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_123
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277538c60f1f54d0fb0910ebd48af350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_124
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a4791c82a04df69e823ca470ffa49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-explosion-sheet-5ac6d5ed656e74.6862153715229803334155_125
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 872
+        width: 221
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0087ee395144e9c8875ca4ab43fc26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0cd72b1bdbb974d9cb18711fa2065de1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: fad43401708352f4d97090505a93fc4b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_0
+    21300002: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_1
+    21300004: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_2
+    21300006: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_3
+    21300008: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_4
+    21300010: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_5
+    21300012: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_6
+    21300014: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_7
+    21300016: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_8
+    21300018: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_9
+    21300020: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_10
+    21300022: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_11
+    21300024: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_12
+    21300026: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_13
+    21300028: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_14
+    21300030: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_15
+    21300032: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_16
+    21300034: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_17
+    21300036: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_18
+    21300038: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_19
+    21300040: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_20
+    21300042: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_21
+    21300044: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_22
+    21300046: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_23
+    21300048: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_24
+    21300050: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_25
+    21300052: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_26
+    21300054: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_27
+    21300056: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_28
+    21300058: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_29
+    21300060: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_30
+    21300062: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_31
+    21300064: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_32
+    21300066: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_33
+    21300068: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_34
+    21300070: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_35
+    21300072: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_36
+    21300074: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_37
+    21300076: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_38
+    21300078: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_39
+    21300080: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_40
+    21300082: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_41
+    21300084: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_42
+    21300086: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_43
+    21300088: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_44
+    21300090: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_45
+    21300092: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_46
+    21300094: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_47
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02978bc3fa205914fa875044b25afdb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 760
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ffdff946c38f4991487b2880c80cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 760
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5e5d4a0283f143a12f1326a6217be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 760
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6466a837da56284a8da5ff36ff8af69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 760
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d20364da4eef44b6ffb25a2fce246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 760
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca9680d5a976b419e0777321b4a82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115c3e5a2fb6084cb81f96decb2faf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 662
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b954fb9179b6f81409315b1d2b9a9e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 662
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb1f61d3eb7a594a816d95fe090068b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 662
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed02f0e712825bf47b9d71216a28b694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 662
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d43eba5fb6e945b683ef8b26c3dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 662
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5a5634c0a5174e8e19378fb9d7f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 662
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924d092eb412ee4cb2b53c511fa894f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 662
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78a3130f8314424281e9b9ffdf9e32e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 662
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe4729446a4bc4db32155021cd7e18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df97bffadfee29439b934fb8c436f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 561
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a477cc6f73c64799c6c0feb41751f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 562
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ae24a8a70d474790743df2bdae315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 562
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d01c342847a0b49aed766feab75209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 562
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d298b275e8644845bc1ee1750eeba18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 562
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417957531108a04185835f319530742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 562
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28afe92e36c8e241aba64217003b99c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 562
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f18343da5137f40a07b552b73096f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_23
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 562
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f668a8adac93b43af1abc0000d906b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adbb5acc7c47ec43ad46f9282ee4148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 507
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad887904dc0e04aa37df4bcf973d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 506
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b625fe7af9dc0f4a9a65a5997176619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 507
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34795f9e0af389f40af40245b86a5747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 507
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a582df3280576488d3c9b4df0d99fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 506
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25d51011284a74b9a6a986708f76ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 506
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d66fd052db2846b2898d2e7ae2a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b78ee7c8207e4680f938dd6e2f522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 396
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e87c3fa8b9ae24d9a45fd88efe41a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 396
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b6f3112c514a41b89ffb3ae0226e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 396
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7efde497e41f04985b0d64efb72823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 396
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb08cf1bf12d124b857bfeffc6ef526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73a8620acf7eb41a8301f0d283a4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 298
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c531668f09e44245ae28fc1e9610e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 302
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d8a1b0a1b4e24d87e0f5a8705b620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb9289a412d62499d85d775b2613e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b11260a0862a48bc6fdd4df7cb94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02b7dbc4c15bd4ab32c236504e7098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec83f0b64a53445a4fc1a3a01f829b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd528ee1afe2654abd54d69ac2d3344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8abeb37dcb9814c8663d82470936d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f974a3ce7aa8248845875dea7d76bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94261598a078ed04493a6e1c0aeaf743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-sprite-sonic-png-clipart-sonic-the-hedgehog-sonic-mania-sonic-sprite-sheet-900x1086_47
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d087e3ffd9dff0d439e9a3a8946bf947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4c627dad152ba349baf75abf13dd802
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

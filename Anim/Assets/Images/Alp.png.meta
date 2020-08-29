@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 93b3a12dc7af2c84aab2f6657b53194c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hiclipart.com(1) - Copy_0
+    21300002: hiclipart.com(1) - Copy_1
+    21300004: hiclipart.com(1) - Copy_2
+    21300006: hiclipart.com(1) - Copy_3
+    21300008: hiclipart.com(1) - Copy_4
+    21300010: hiclipart.com(1) - Copy_5
+    21300012: hiclipart.com(1) - Copy_6
+    21300014: hiclipart.com(1) - Copy_7
+    21300016: hiclipart.com(1) - Copy_8
+    21300018: hiclipart.com(1) - Copy_9
+    21300020: hiclipart.com(1) - Copy_10
+    21300022: hiclipart.com(1) - Copy_11
+    21300024: hiclipart.com(1) - Copy_12
+    21300026: hiclipart.com(1) - Copy_13
+    21300028: hiclipart.com(1) - Copy_14
+    21300030: hiclipart.com(1) - Copy_15
+    21300032: hiclipart.com(1) - Copy_16
+    21300034: hiclipart.com(1) - Copy_17
+    21300036: hiclipart.com(1) - Copy_18
+    21300038: hiclipart.com(1) - Copy_19
+    21300040: hiclipart.com(1) - Copy_20
+    21300042: hiclipart.com(1) - Copy_21
+    21300044: hiclipart.com(1) - Copy_22
+    21300046: hiclipart.com(1) - Copy_23
+    21300048: hiclipart.com(1) - Copy_24
+    21300050: hiclipart.com(1) - Copy_25
+    21300052: hiclipart.com(1) - Copy_26
+    21300054: hiclipart.com(1) - Copy_27
+    21300056: hiclipart.com(1) - Copy_28
+    21300058: hiclipart.com(1) - Copy_29
+    21300060: hiclipart.com(1) - Copy_30
+    21300062: hiclipart.com(1) - Copy_31
+    21300064: hiclipart.com(1) - Copy_32
+    21300066: hiclipart.com(1) - Copy_33
+    21300068: hiclipart.com(1) - Copy_34
+    21300070: hiclipart.com(1) - Copy_35
+    21300072: Alp_0
+    21300074: Alp_1
+    21300076: Alp_2
+    21300078: Alp_3
+    21300080: Alp_4
+    21300082: Alp_5
+    21300084: Alp_6
+    21300086: Alp_7
+    21300088: Alp_8
+    21300090: Alp_9
+    21300092: Alp_10
+    21300094: Alp_11
+    21300096: Alp_12
+    21300098: Alp_13
+    21300100: Alp_14
+    21300102: Alp_15
+    21300104: Alp_16
+    21300106: Alp_17
+    21300108: Alp_18
+    21300110: Alp_19
+    21300112: Alp_20
+    21300114: Alp_21
+    21300116: Alp_22
+    21300118: Alp_23
+    21300120: Alp_24
+    21300122: Alp_25
+    21300124: Alp_26
+    21300126: Alp_27
+    21300128: Alp_28
+    21300130: Alp_29
+    21300132: Alp_30
+    21300134: Alp_31
+    21300136: Alp_32
+    21300138: Alp_33
+    21300140: Alp_34
+    21300142: Alp_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alp_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1971
+        width: 292
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a6affe2520a348886c4a5a9d2d60b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1978
+        width: 272
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30928833f26c5e242a620d1ca43aa6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1971
+        width: 256
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f6ff6e47f13d47ab7271fcad8c6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_3
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1970
+        width: 255
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa98f68ba0ea7438270429fa2ed3e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_4
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1977
+        width: 230
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19608841063d3d4438da5954ada5e58b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_5
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1981
+        width: 246
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ce0a4bca9c7f4ab56f29e0e068652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_6
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1975
+        width: 276
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129123b8dd00284ca72b8cf3dafc548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_7
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1977
+        width: 274
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97020eecd6b915542880a5a63bbca17e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_8
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1976
+        width: 117
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb74996231317640af126d1295013b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1284
+        width: 183
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c1fd57a32d0934cb2f2c35a1829647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1281
+        width: 296
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd0c5c48b30c749b4f7db1212d0b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1293
+        width: 244
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef8236dd83b2c4b9eb31e7386be474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_12
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1283
+        width: 384
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654300ba088bcd74683ec2e5bf7d642e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1277
+        width: 293
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279812a7bd2cdc4c9b4214aa9e318bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_14
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1288
+        width: 276
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8525866fab3db4f9e2b4e2530f7948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_15
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1290
+        width: 268
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be00dc4ae3dd6f44e8bb5ebaf60fa4e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_16
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1259
+        width: 293
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cdd788c6086034daf7dd7e82912955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 252
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d74558ff8969fb4eb27c410f7cd5bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 649
+        width: 236
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec676c54831eccf4fbf7abca62d58651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 650
+        width: 222
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26e226921bcd9458e2d1637462219a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_20
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 645
+        width: 250
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf43b074c2617f343a3fb53fe11a3bf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_21
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 662
+        width: 267
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806a139eb4a7aa4bb3de5a6f40449f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_22
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 653
+        width: 355
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e095b4902ac40944a84c1a4b0d17da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_23
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 650
+        width: 257
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3859ebbd12874b42afff3205f17dc0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_24
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 650
+        width: 271
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd746c8398fbe449264674a5173cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_25
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 649
+        width: 280
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb828215ccbfa704c92f5a3fc5b19323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 167
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75cb9ff65038445b781eadfc0e74d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 229
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da93d2f77871140be235da999de47b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_28
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 235
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1e87ad7e95ef45ba9b6446bbb0206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 12
+        width: 241
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c24b6606cc654aa5168938ff3bbdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_30
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 11
+        width: 225
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579aa269c2d6914a8d207a2e3712cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_31
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 12
+        width: 236
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc58e23c95eda47a29a57b49ed8851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_32
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 0
+        width: 213
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7c8b9ec75806428590f2fa36b1fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_33
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 11
+        width: 240
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13523c47829cc48b2781aa6079f6fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_34
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 0
+        width: 235
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f243c888084c4d9cb51dd62f7d400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alp_35
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 10
+        width: 244
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ff9927037f2f49b8a14f9e6409695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ccfa9003c15c9734088c8047d0966802
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
